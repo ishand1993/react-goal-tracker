@@ -2,7 +2,7 @@
 
 Hello and welcome to my github page, this is a simple react app for creating and tracking your daily goals, just like having sticky notes.</br>
 Through this app I learned about styled components and CSS Modules that help create unique classes for different components and makes maintaining code easy. </br>
-Check it out LIVE here - [https://ishand1993.github.io/react-expense-tracker/](https://ishand1993.github.io/react-goal-tracker/)</br>
+Check it out LIVE here - [https://ishand1993.github.io/react-goal-tracker/](https://ishand1993.github.io/react-goal-tracker/)</br>
 Checkout my Portfolio - [https://ishandogra.com](https://ishandogra.com)
 
 ## Disclaimer
