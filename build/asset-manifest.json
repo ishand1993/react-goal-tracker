@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-goal-tracker/static/css/main.ccf65014.css",
-    "main.js": "/react-goal-tracker/static/js/main.5eef1053.js",
+    "main.css": "/react-goal-tracker/static/css/main.a6591b38.css",
+    "main.js": "/react-goal-tracker/static/js/main.221d164c.js",
     "index.html": "/react-goal-tracker/index.html",
-    "main.ccf65014.css.map": "/react-goal-tracker/static/css/main.ccf65014.css.map",
-    "main.5eef1053.js.map": "/react-goal-tracker/static/js/main.5eef1053.js.map"
+    "main.a6591b38.css.map": "/react-goal-tracker/static/css/main.a6591b38.css.map",
+    "main.221d164c.js.map": "/react-goal-tracker/static/js/main.221d164c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccf65014.css",
-    "static/js/main.5eef1053.js"
+    "static/css/main.a6591b38.css",
+    "static/js/main.221d164c.js"
   ]
 }
